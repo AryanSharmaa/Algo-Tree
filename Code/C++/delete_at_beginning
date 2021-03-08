@@ -70,7 +70,8 @@ int main()
  insertEnd(4);
  insertEnd(5);
  displayList();
-
+ 
+//delete function call
  deleteBeg();
  displayList();
  return 0;
